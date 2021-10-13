@@ -1,0 +1,34 @@
+:root{
+    --principal: #23ac08;
+    --second: #4871da;
+    --third: #34e227;
+    --fourth: #d75ae7;
+    --black: #131313;
+    --white: #ffffff;
+}
+
+.principal{
+    min-height: 100vh;
+    color: var(--black);
+    width:100vw;
+    background-color: var(--second);
+}
+.container-form{
+    display: flex;
+    justify-content: center;
+    color: var(--black);
+    align-items: center;
+    min-height: 140vh;
+}
+.form-react{
+    border-radius: 20px;
+    max-width: 450px;
+    width: 100%;
+    padding: 70px 20px;
+    background-color: var(--fourth);
+    color: var(--black);
+}
+
+.table{
+    background-color: #FFF;
+}
