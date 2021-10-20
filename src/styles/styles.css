@@ -32,3 +32,15 @@
 .table{
     background-color: #FFF;
 }
+
+
+.form{
+    width: 100%;
+    max-width: 500px;
+}
+.txt-rfc{
+    letter-spacing: 10px;
+}
+label{
+    margin-bottom: 5px;
+}
